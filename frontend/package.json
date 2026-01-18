@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Vivek-kumar-027.github.io/SweegyClone",
+  
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
     "@radix-ui/react-accordion": "^1.2.8",
@@ -59,9 +59,8 @@
   "scripts": {
     "start": "craco start",
     "build": "craco build",
-    "test": "craco test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "test": "craco test"
+    
   },
   "browserslist": {
     "production": [
