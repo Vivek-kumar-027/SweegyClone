@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SweegyClone/static/css/main.01a5c2ec.css",
+    "main.js": "/SweegyClone/static/js/main.b23c2d35.js",
+    "index.html": "/SweegyClone/index.html",
+    "main.01a5c2ec.css.map": "/SweegyClone/static/css/main.01a5c2ec.css.map",
+    "main.b23c2d35.js.map": "/SweegyClone/static/js/main.b23c2d35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a5c2ec.css",
+    "static/js/main.b23c2d35.js"
+  ]
+}
